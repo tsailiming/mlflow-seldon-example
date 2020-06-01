@@ -1,0 +1,4 @@
+seldon-core==1.1.0
+mlflow[extras]==1.8.0
+boto3==1.13.11
+s3fs==0.4.2
